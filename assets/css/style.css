@@ -8,7 +8,7 @@ p {
 /* Navbar */
 
 .fondo_nav {
-  background-color: #1d3840;
+  background-color: #8f4b7c;
 }
 
 .nav-item {
@@ -21,7 +21,7 @@ p {
 }
 
 .dropdown-menu {
-  background-color: #1d3840;
+  background-color: #8f4b7c;
 }
 
 .dropdown-item {
@@ -74,12 +74,12 @@ h3 {
 /* Portafolio-Grafico */
 
 #Portafolio-Grafico {
-  background-color: #1d3840;
+  background-color: #8f4b7c;
 }
 
 .btn-portafolio {
-  border: 1px solid #ff4f5a;
-  background-color: #ff4f5a;
+  border: 1px solid #3f7a62;
+  background-color: #3f7a62;
   color: white;
 }
 
@@ -114,8 +114,8 @@ h3 {
 }
 
 .btn-contacto {
-  background-color: #ff4f5a;
-  border-color: #ff4f5a;
+  background-color: #3f7a62;
+  border-color: #3f7a62;
 }
 
 .btn-contacto:hover {
@@ -240,7 +240,7 @@ h3 {
 /* Footer */
 
 footer {
-  background-color: #1d3840;
+  background-color: #8f4b7c;
 }
 
 
